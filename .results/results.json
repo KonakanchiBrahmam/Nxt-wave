@@ -1,0 +1,52 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCPTTBV7_TEST_1",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content \"Course Catalog\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPTTBV7_TEST_2",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content starting with \"Browse our wide range of courses\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPTTBV7_TEST_3",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML heading element with text content \"HTML & CSS Fundamentals\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPTTBV7_TEST_4",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML heading elements with text content as the courseName for all courses",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPTTBV7_TEST_5",
+      "evaluation_result": "CORRECT",
+      "title": "Page should display the duration for the first course in the format \"Duration: 6 Weeks\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPTTBV7_TEST_6",
+      "evaluation_result": "CORRECT",
+      "title": "Page should display the duration for all courses in the format \"Duration: {duration}\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPTTBV7_TEST_7",
+      "evaluation_result": "CORRECT",
+      "title": "Page should display the category for all courses in the format \"Category: {category}\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPTTBV7_TEST_8",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML heading element with text content \"JavaScript Essentials\"",
+      "errorMessages": []
+    }
+  ]
+}
